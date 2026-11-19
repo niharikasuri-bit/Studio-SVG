@@ -17,3 +17,4 @@ Light tints of these colours follow the same theme colour. Greys stay neutral.
 | `service-landing-page.svg` | Service dashboard: Service Landing Page card (Service Configuration) |
 | `dashboard.svg` | Service dashboard: Dashboard card (Service Configuration) |
 | `no-results-found.svg` | Empty state: No results found (search / filters return nothing) |
+| `forms-empty-state.svg` | Empty state: Module dashboard before a form is created ("Start by creating your form") |
