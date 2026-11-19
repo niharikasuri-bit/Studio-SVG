@@ -1,0 +1,20 @@
+<!-- Empty state: No results found (search / filters return nothing)
+     Theme colours: #C84C0E = Primary 1 (orange), #0B4B66 = Primary 2 (heading blue).
+     Light tints of these (e.g. #F2C3AB, rgba(11, 75, 102, 0.8)) follow the same theme colour. Greys (#D6D5D4, #E8E8E8, #DCDCDC, #ECECEC, #F3F3F3) stay neutral. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="131" viewBox="0 0 220 180" fill="none">
+      <ellipse cx="110" cy="164" rx="88" ry="7" fill="#E8E8E8"></ellipse>
+      <path d="M76 58h68l6 20H70z" fill="#D6D5D4"></path>
+      <path d="M70 78h80l14 20H56z" fill="#0B4B66"></path>
+      <path d="M78 84h64l6 10H72z" fill="rgba(11, 75, 102, 0.8)"></path>
+      <path d="M70 78 56 98 28 86l18-22z" fill="#F3F3F3"></path>
+      <path d="M150 78l14 20 28-12-18-22z" fill="#ECECEC"></path>
+      <path d="M56 98h108v50a6 6 0 0 1-6 6H62a6 6 0 0 1-6-6z" fill="#E8E8E8"></path>
+      <path d="M56 98h108v6H56z" fill="#DCDCDC"></path>
+      <path d="M110 104v50" stroke="#DCDCDC" stroke-width="2"></path>
+      <circle cx="160" cy="40" r="16" fill="#fff" stroke="#C84C0E" stroke-width="5"></circle>
+      <path d="M148 52l-12 13" stroke="#0B4B66" stroke-width="6" stroke-linecap="round"></path>
+      <path d="M153 35a8 8 0 0 1 11-2" stroke="#F2C3AB" stroke-width="3" stroke-linecap="round"></path>
+      <circle cx="44" cy="40" r="4" fill="#E8E8E8"></circle>
+      <circle cx="198" cy="112" r="3" fill="#E8E8E8"></circle>
+      <path d="M100 30h10M105 25v10" stroke="#D6D5D4" stroke-width="2.5" stroke-linecap="round"></path>
+    </svg>

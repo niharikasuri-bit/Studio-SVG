@@ -1,0 +1,13 @@
+<!-- Service dashboard: Dashboard card (Service Configuration)
+     Theme colours: #C84C0E = Primary 1 (orange), #0B4B66 = Primary 2 (heading blue).
+     Light tints of these (e.g. #F2C3AB, rgba(11, 75, 102, 0.8)) follow the same theme colour. Greys (#D6D5D4, #E8E8E8, #DCDCDC, #ECECEC, #F3F3F3) stay neutral. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="100" viewBox="0 0 140 100" fill="none">
+                <rect x="30" y="14" width="66" height="46" rx="2" fill="#fff" stroke="#0B4B66" stroke-width="3"></rect>
+                <path d="M38 26h10M38 32h10M38 38h10" stroke="#D6D5D4" stroke-width="1.5"></path>
+                <path d="M56 24v26M60 44l8-6 6 4 10-10" stroke="#C84C0E" stroke-width="1.5"></path>
+                <path d="M58 60l-4 10h18l-4-10" fill="#D6D5D4"></path>
+                <circle cx="106" cy="40" r="4" fill="#0B4B66"></circle>
+                <path d="M101 47h10v20h-10z" fill="#C84C0E"></path>
+                <path d="M103 67v16M109 67v16" stroke="#0B4B66" stroke-width="3"></path>
+                <path d="M24 86h96" stroke="#D6D5D4"></path>
+              </svg>

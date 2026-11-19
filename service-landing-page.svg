@@ -1,0 +1,13 @@
+<!-- Service dashboard: Service Landing Page card (Service Configuration)
+     Theme colours: #C84C0E = Primary 1 (orange), #0B4B66 = Primary 2 (heading blue).
+     Light tints of these (e.g. #F2C3AB, rgba(11, 75, 102, 0.8)) follow the same theme colour. Greys (#D6D5D4, #E8E8E8, #DCDCDC, #ECECEC, #F3F3F3) stay neutral. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="100" viewBox="0 0 140 100" fill="none">
+                <g stroke="#D6D5D4" stroke-width="1.5" fill="#fff">
+                  <path d="M30 18l10-6 10 6v12l-10 6-10-6z"></path><path d="M60 18l10-6 10 6v12l-10 6-10-6z" stroke="#C84C0E"></path><path d="M90 18l10-6 10 6v12l-10 6-10-6z"></path>
+                </g>
+                <path d="M65 22h10M65 25h10M65 28h10" stroke="#C84C0E" stroke-width="1.5"></path>
+                <circle cx="70" cy="48" r="5" fill="#0B4B66"></circle>
+                <path d="M63 56h14l-2 22h-10z" fill="#0B4B66"></path>
+                <path d="M65 78l-1 16M75 78l1 16" stroke="#0B4B66" stroke-width="4"></path>
+                <path d="M40 95h60" stroke="#D6D5D4"></path>
+              </svg>

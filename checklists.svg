@@ -1,0 +1,4 @@
+<!-- Module dashboard: Checklists card
+     Theme colours: #C84C0E = Primary 1 (orange), #0B4B66 = Primary 2 (heading blue).
+     Light tints of these (e.g. #F2C3AB, rgba(11, 75, 102, 0.8)) follow the same theme colour. Greys (#D6D5D4, #E8E8E8, #DCDCDC, #ECECEC, #F3F3F3) stay neutral. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="100" viewBox="0 0 150 100" fill="none"><rect x="58" y="34" width="70" height="34" fill="#fff" stroke="#0B4B66"></rect><circle cx="72" cy="51" r="7" stroke="#C84C0E" stroke-width="1.5"></circle><path d="m69 51 2 2 4-4" stroke="#C84C0E" stroke-width="1.5"></path><path d="M84 47h36M84 55h36" stroke="#C84C0E" stroke-width="3"></path><circle cx="36" cy="30" r="5" fill="#0B4B66"></circle><path d="M30 37h12l-1 20h-10z" fill="#E8E8E8"></path><path d="M33 57v18M39 57v18" stroke="#0B4B66" stroke-width="3"></path><path d="M40 40l16 8" stroke="#0B4B66" stroke-width="2"></path><path d="M14 92h70" stroke="#D6D5D4"></path></svg>

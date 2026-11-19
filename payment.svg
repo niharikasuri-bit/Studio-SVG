@@ -1,0 +1,4 @@
+<!-- Module dashboard: Payment card
+     Theme colours: #C84C0E = Primary 1 (orange), #0B4B66 = Primary 2 (heading blue).
+     Light tints of these (e.g. #F2C3AB, rgba(11, 75, 102, 0.8)) follow the same theme colour. Greys (#D6D5D4, #E8E8E8, #DCDCDC, #ECECEC, #F3F3F3) stay neutral. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="110" viewBox="0 0 120 110" fill="none"><rect x="54" y="4" width="46" height="98" rx="7" fill="#fff" stroke="#0B4B66" stroke-width="3"></rect><path d="M70 7h14" stroke="#0B4B66" stroke-width="3"></path><rect x="62" y="16" width="30" height="12" fill="#E8E8E8"></rect><path d="M62 40h30M62 48h30M62 56h30M62 64h30M62 72h30" stroke="#D6D5D4"></path><rect x="32" y="34" width="34" height="20" rx="3" fill="#C84C0E" transform="rotate(-12 49 44)"></rect><circle cx="20" cy="30" r="5" fill="#0B4B66"></circle><path d="M14 37h12l-1 20h-10z" fill="#E8E8E8"></path><path d="M17 57v18M23 57v18" stroke="#0B4B66" stroke-width="3"></path></svg>
